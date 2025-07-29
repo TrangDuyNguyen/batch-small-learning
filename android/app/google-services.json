@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483877998355",
+    "project_id": "batch-small-learning",
+    "storage_bucket": "batch-small-learning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483877998355:android:23cd40035117c31f3514e6",
+        "android_client_info": {
+          "package_name": "com.example.batch_small_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE6EHINYDxpqACeklRBOfO-_UivhyU0QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
