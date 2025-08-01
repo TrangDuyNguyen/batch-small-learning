@@ -1,4 +1,4 @@
-import 'package:authentication/authentication.dart';
+import 'package:authentication/authentication_module.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
